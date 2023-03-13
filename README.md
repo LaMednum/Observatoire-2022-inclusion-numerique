@@ -62,7 +62,7 @@ Acronymes utilisés :
 Outils partagés :
 
 - Trame du questionnaire : [ici](https://docs.google.com/spreadsheets/d/1egjw9TrZ6nSkcZraQMBHGfHrsE1p5yTn_da9XCKhGB0/edit?usp=share_link)
-- Grilles d’entretiens qualitatifs : [ici](https://docs.google.com/presentation/d/1WzTpRiXyA7gXrOKXKroABqrmE1AfNbG2Q8mQaZMWwRA/edit#slide=id.g15e1c3430ed_0_9)
+- Grilles d’entretiens qualitatifs : [ici](https://docs.google.com/presentation/d/1WzTpRiXyA7gXrOKXKroABqrmE1AfNbG2Q8mQaZMWwRA/edit?usp=sharing)
 
 Pour construire votre propre Observatoire, à l’échelle d’un territoire (région, département…), ou bien pour des acteurs particuliers (tiers-lieux, centres-sociaux, intercommunalités…), vous pouvez choisir d’aborder les mêmes thématiques, et d’utiliser les mêmes outils (arborescence du questionnaire et grilles d’entretien) ou bien de les modifier/adapter selon vos propres enjeux et besoins.
 
